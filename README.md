@@ -48,6 +48,17 @@ Orbit ERP는 학원
 <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
 <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=spring&logoColor=white"> 
 </div>
+<h4>서버</h4>
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apache tomcat&logoColor=white">
+<h4>데이터베이스</h4>
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<h4>프레임워크</h4>
+<<div style="algin:left">
+    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    ![Mybatis](https://img.shields.io/badge/Mybatis-0769AD?style=for-the-badge&logoColor=white)
+    ![Ajax](https://img.shields.io/badge/Ajax-0769AD?style=for-the-badge&logoColor=white)
+</div>
+
 
 
 
